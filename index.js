@@ -1,3 +1,5 @@
-console.log("Hello, Hexlet!");
-import _ from "lodash";
-console.log(_.last(["one", "two"]));
+const sum = (a, b) => {
+  let c = 0;
+  c = a + b;
+  return c;
+};
